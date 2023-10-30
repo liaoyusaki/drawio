@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T13:51:25.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="akHFfBNNk2DLMht0gFsK" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T14:02:44.083Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="aEOvj_3ygtoWOOCdGLmr" version="22.0.8" type="github">
   <diagram name="Page-1" id="Xa6W8tDlYYP3KtLo9UPV">
     <mxGraphModel dx="2527" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -702,6 +702,9 @@
         </mxCell>
         <mxCell id="X73cMwM7T4xTnlfbQ1Im-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="X73cMwM7T4xTnlfbQ1Im-269" target="X73cMwM7T4xTnlfbQ1Im-273">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X73cMwM7T4xTnlfbQ1Im-281" value="find out fake collective id:&lt;br&gt;L1_ENTITE_DE_RATTACHEMENT__C = COLL2&lt;br&gt;distinct&amp;nbsp;L1_CONTRAT_REFERENCE__C,&amp;nbsp;CONTRAT_COLLECTIF__C&lt;br&gt;&lt;br&gt;find out fake individel id:&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="550" width="410" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
