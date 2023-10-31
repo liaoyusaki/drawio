@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T09:57:44.388Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="X4MWp9-IyewcAE3vQBLA" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T09:59:58.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="A0xW0MIfc_IhbmNVQ_8I" version="22.0.8" type="github">
   <diagram name="Page-1" id="Xa6W8tDlYYP3KtLo9UPV">
     <mxGraphModel dx="2855" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -617,7 +617,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X73cMwM7T4xTnlfbQ1Im-176" value="L1_ENTITE_DE_RATTACHEMENT__C" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="X73cMwM7T4xTnlfbQ1Im-174" vertex="1">
+        <mxCell id="X73cMwM7T4xTnlfbQ1Im-176" value="&lt;font color=&quot;#ff3333&quot;&gt;L1_ENTITE_DE_RATTACHEMENT__C&lt;/font&gt;" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="X73cMwM7T4xTnlfbQ1Im-174" vertex="1">
           <mxGeometry x="30" width="340" height="30" as="geometry">
             <mxRectangle width="340" height="30" as="alternateBounds" />
           </mxGeometry>
