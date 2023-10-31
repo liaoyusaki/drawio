@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T10:03:08.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="EsdB2WY0IVQiTU0KzT3E" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T10:32:45.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="A_dRMw7d5CQrFsGQxB0x" version="22.0.8" type="github">
   <diagram name="Page-1" id="Xa6W8tDlYYP3KtLo9UPV">
     <mxGraphModel dx="2855" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -718,7 +718,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X73cMwM7T4xTnlfbQ1Im-273" value="&lt;ul style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;TNS&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;TPE-PME&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;Gd comptes&lt;/li&gt;&lt;/ul&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="190" y="500" width="150" height="85" as="geometry" />
+          <mxGeometry x="190" y="540" width="150" height="85" as="geometry" />
         </mxCell>
         <mxCell id="X73cMwM7T4xTnlfbQ1Im-275" value="&lt;ul style=&quot;border-color: var(--border-color);&quot;&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;COLL&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;&lt;b&gt;COLL2&lt;/b&gt;&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;None&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;STATUT&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;NR&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;ND&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;GMF&lt;/li&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;MG&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="50" width="100" height="155" as="geometry" />
@@ -727,7 +727,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X73cMwM7T4xTnlfbQ1Im-279" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="X73cMwM7T4xTnlfbQ1Im-269" target="X73cMwM7T4xTnlfbQ1Im-273" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="265" y="505" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="X73cMwM7T4xTnlfbQ1Im-281" value="choose individual contract id attached with their big contract id&lt;br&gt;L1_ENTITE_DE_RATTACHEMENT__C = COLL2&lt;br&gt;distinct&amp;nbsp;L1_CONTRAT_REFERENCE__C,&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;CONTRAT_COLLECTIF__C&lt;/span&gt;&lt;br&gt;&lt;br&gt;choose the real collective contract id without the big contract id for individual contract&lt;br&gt;L1_ENTITE_DE_RATTACHEMENT__C = COLL&lt;br&gt;distinct&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: rgb(255, 255, 153);&quot;&gt;CONTRAT_COLLECTIF__C&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="-820" y="540" width="410" height="140" as="geometry" />
