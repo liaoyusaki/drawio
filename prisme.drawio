@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-24T10:21:56.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ReiJNJX7EUMH49W1SUBV" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-24T10:22:41.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="1OI9f-iQcBrnH4nZ42G0" version="22.1.3" type="github">
   <diagram name="Page-1" id="-N0Wf2p26_ytfd32TYqR">
     <mxGraphModel dx="2415" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -233,10 +233,10 @@
         <mxCell id="k39MhWjwB1qhPyTOTygt-113" value="What it should be:&lt;br&gt;1 person to 1 address&lt;br&gt;1 account to 1 person" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#E6D0DE;strokeColor=#E6D0DE;" vertex="1" parent="1">
           <mxGeometry x="-180" y="40" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k39MhWjwB1qhPyTOTygt-114" value="SWF_TAB_C_PERSONNE_XREF:&lt;br&gt;chaque ligne est une personne dans les systems differents&lt;br&gt;- ABC in EOLE&lt;br&gt;- ABC in AI" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFF4C3;strokeColor=#FFF4C3;" vertex="1" parent="1">
+        <mxCell id="k39MhWjwB1qhPyTOTygt-114" value="SWF_TAB_C_PERSONNE_XREF:&lt;br&gt;4,295,116 lignes total&lt;br&gt;chaque ligne est une personne dans les systems differents&lt;br&gt;- ABC in EOLE&lt;br&gt;- ABC in AI" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFF4C3;strokeColor=#FFF4C3;" vertex="1" parent="1">
           <mxGeometry x="320" y="350" width="340" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="k39MhWjwB1qhPyTOTygt-115" value="SWF_TAB_PERSONNE:&lt;br&gt;chaque ligne est une personne physique&lt;br&gt;- ABC&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFF4C3;strokeColor=#FFF4C3;" vertex="1" parent="1">
+        <mxCell id="k39MhWjwB1qhPyTOTygt-115" value="SWF_TAB_PERSONNE:&lt;br&gt;2,522,772 lignes totals&lt;br&gt;chaque ligne est une personne physique&lt;br&gt;- ABC&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=left;fillColor=#FFF4C3;strokeColor=#FFF4C3;" vertex="1" parent="1">
           <mxGeometry x="-190" y="240" width="340" height="100" as="geometry" />
         </mxCell>
       </root>
